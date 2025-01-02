@@ -42,3 +42,10 @@ python main.py
 Coded by Mohamed - [@mohamedicn](https://facebook.com/mohamedicn)
 
 Visit us at [https://icneg.com](https://icneg.com)
+
+## Disclaimer
+
+This tool is provided "as is" without any warranties or guarantees. The author is **not responsible for any incorrect use, misuse, or damages** caused by the use of this software.
+
+By downloading and using this tool, you agree that you use it at your own risk and take full responsibility for your actions.
+
