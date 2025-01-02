@@ -16,4 +16,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-[Download mapdomain.exe]()
+## Download exe File
+
+[Click to Dwonload](https://github.com/mohamedicn/mapdomain/blob/main/mapdomain/mapdomain.exe)
