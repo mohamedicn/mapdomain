@@ -1,0 +1,8 @@
+README.md
+setup.py
+mapdomain.egg-info/PKG-INFO
+mapdomain.egg-info/SOURCES.txt
+mapdomain.egg-info/dependency_links.txt
+mapdomain.egg-info/entry_points.txt
+mapdomain.egg-info/requires.txt
+mapdomain.egg-info/top_level.txt
