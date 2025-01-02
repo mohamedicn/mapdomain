@@ -18,4 +18,4 @@ python main.py
 
 ## Download exe File
 
-[Click to Dwonload](https://github.com/mohamedicn/mapdomain/blob/main/mapdomain/mapdomain.exe)
+[Download mapdomain.exe](https://github.com/mohamedicn/mapdomain/raw/main/mapdomain/mapdomain.exe)
