@@ -5,7 +5,7 @@ mapmydomain is a Python-based tool for subdomain enumeration and sitemap creatio
 ## Installation
 
 ```bash
-git clone mapmydomain](https://github.com/mohamedicn/mapdomain)
+git clone https://github.com/mohamedicn/mapdomain
 ```
 
 ```bash
